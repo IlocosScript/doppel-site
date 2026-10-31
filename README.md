@@ -1,3 +1,3 @@
-# Kadua website
+# Doppel website
 
-Landing page and privacy policy for [Kadua: Dual Camera](https://ilocosscript.github.io/kadua-site/), served by GitHub Pages.
+Landing page and privacy policy for [Doppel: Dual Camera](https://ilocosscript.github.io/doppel-site/), served by GitHub Pages.
